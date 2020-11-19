@@ -1,0 +1,2 @@
+# scalcy.py
+smart calc
